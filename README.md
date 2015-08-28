@@ -7,4 +7,3 @@ Usage: Edit the web-server config on the web hosts and change the document root 
     ...
 </VirtualHost>
 
-
